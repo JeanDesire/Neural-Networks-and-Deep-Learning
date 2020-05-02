@@ -70,7 +70,7 @@ c.shape = (3, 2)
 
 The computation cannot happen because the sizes don't match. It's going to be "Error"!
 
-## Answer:  c.shape = (2, 3)
+## Answer:  c.shape = (2, 3) because it is broadcasting
 
 
 # 5.Question 5
@@ -110,7 +110,7 @@ c) (m,1)
 
 d) (n_x, m)
 
-## Answer:  b) (1,m)
+## Answer:  a) (m,n_x)
 
 # 7.Question 7
 
